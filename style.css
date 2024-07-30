@@ -74,7 +74,7 @@ body{
                         filter: blur(50px);
                     }
                 }
-
+                
                 & .content{
                     position: absolute;
                     z-index: 20;
@@ -325,7 +325,6 @@ body{
         }
     }
 }
-
 *{
     margin: 0;
     padding: 0;
@@ -493,7 +492,7 @@ h3{
         padding-top: 100px;
         text-align: center;
     }
-}
+}    
     .testimonials{
         flex-basis: 44%;
         border-radius: 10px;
